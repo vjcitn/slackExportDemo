@@ -27,3 +27,7 @@ Unzipping produces a tree of folders with json documents within:
 The json has a text element that can be viewed with listviewer::jsonedit:
 
 ![listview](./minimap2.png)
+
+The export includes a users.json with 4111 identities
+
+![users](./usersSlack.png)
