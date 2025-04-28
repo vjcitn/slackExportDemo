@@ -23,3 +23,7 @@ Unzipping produces a tree of folders with json documents within:
 │   └── canvas_in_the_conversation.json
 ...
 ```
+
+The json has a text element that can be viewed with listviewer::jsonedit:
+
+![listview](./minimap2.png)
