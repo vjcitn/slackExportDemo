@@ -1,0 +1,1764 @@
+[
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743465456.933089",
+        "client_msg_id": "ebea46e4-ebc7-4053-be54-814dfe4d2c23",
+        "text": "So I vibe-coded my way into a working minimap2 interface for R, thoughts on whether this is a viable project? <https:\/\/github.com\/Shians\/minimap2-ai-r>",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1743632398.269849",
+        "reply_users": [
+            "U01579C7JG3",
+            "UBWEB8TQC",
+            "U35E7QV6W"
+        ],
+        "replies": [
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743466892.497869"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743467046.451449"
+            },
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743467149.309759"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743467221.154729"
+            },
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743467256.999629"
+            },
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743467321.224439"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743467389.893169"
+            },
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743467413.384399"
+            },
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743467521.418819"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743467924.380339"
+            },
+            {
+                "user": "U01579C7JG3",
+                "ts": "1743467989.684689"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743470937.559129"
+            },
+            {
+                "user": "U35E7QV6W",
+                "ts": "1743610936.133489"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743632242.294599"
+            },
+            {
+                "user": "UBWEB8TQC",
+                "ts": "1743632398.269849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B020EPX3T35",
+                "bot_team_id": "T35G93A5T",
+                "app_unfurl_url": "https:\/\/github.com\/Shians\/minimap2-ai-r",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Shians\/minimap2-ai-r",
+                "title": "Shians\/minimap2-ai-r",
+                "fields": [
+                    {
+                        "value": "C",
+                        "title": "Language",
+                        "short": true
+                    },
+                    {
+                        "value": "9 hours ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+I1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I vibe-coded my way into a working minimap2 interface for R, thoughts on whether this is a viable project? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Shians\/minimap2-ai-r"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBWEB8TQC",
+        "upload": false,
+        "ts": "1743465458.000000",
+        "text": "So I vibe-coded my way into a working minimap2 interface for R, thoughts on whether this is a viable project? <https:\/\/github.com\/Shians\/minimap2-ai-r>",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U00",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B020EPX3T35",
+                "bot_team_id": "T35G93A5T",
+                "app_unfurl_url": "https:\/\/github.com\/Shians\/minimap2-ai-r",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "Shians\/minimap2-ai-r",
+                "title": "Shians\/minimap2-ai-r",
+                "fields": [
+                    {
+                        "value": "C",
+                        "title": "Language",
+                        "short": true
+                    },
+                    {
+                        "value": "9 hours ago",
+                        "title": "Last updated",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+I1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I vibe-coded my way into a working minimap2 interface for R, thoughts on whether this is a viable project? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Shians\/minimap2-ai-r"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "UBWEB8TQC",
+            "type": "message",
+            "ts": "1743465456.933089",
+            "client_msg_id": "ebea46e4-ebc7-4053-be54-814dfe4d2c23",
+            "text": "So I vibe-coded my way into a working minimap2 interface for R, thoughts on whether this is a viable project? <https:\/\/github.com\/Shians\/minimap2-ai-r>",
+            "team": "T35G93A5T",
+            "user_team": "T35G93A5T",
+            "source_team": "T35G93A5T",
+            "user_profile": {
+                "avatar_hash": "596f060ea0a3",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+                "first_name": "Shian",
+                "real_name": "Shian Su",
+                "display_name": "shians",
+                "team": "T35G93A5T",
+                "name": "registertonysu",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "I+I1q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "So I vibe-coded my way into a working minimap2 interface for R, thoughts on whether this is a viable project? "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/github.com\/Shians\/minimap2-ai-r"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743465503.831669",
+        "client_msg_id": "321c2372-b581-4a76-bb2c-df7a3e3bb992",
+        "text": "I need to decide if I want to pay for Cursor since I'm now out of free tokens. :cry:",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shksa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need to decide if I want to pay for Cursor since I'm now out of free tokens. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U36MRHX2S",
+        "type": "message",
+        "ts": "1743465754.599679",
+        "client_msg_id": "98a0fd74-11b2-423a-8fae-7a15e2bab651",
+        "text": "I don't know. I could see the appeal for teaching for example. I have always aligned in a separate process.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "f2776a64e454",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1307934394386_f2776a64e4549b5f8945_72.png",
+            "first_name": "Kasper",
+            "real_name": "Kasper D. Hansen",
+            "display_name": "khansen",
+            "team": "T35G93A5T",
+            "name": "khansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDFrW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know. I could see the appeal for teaching for example. I have always aligned in a separate process."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U36MRHX2S",
+        "type": "message",
+        "ts": "1743465766.163139",
+        "client_msg_id": "7a6039ad-294b-47c3-a2e6-99f3f0a37582",
+        "text": "I would look into whether people are using Rbowtie",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "f2776a64e454",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1307934394386_f2776a64e4549b5f8945_72.png",
+            "first_name": "Kasper",
+            "real_name": "Kasper D. Hansen",
+            "display_name": "khansen",
+            "team": "T35G93A5T",
+            "name": "khansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htIha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would look into whether people are using Rbowtie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U36MRHX2S",
+        "type": "message",
+        "ts": "1743465786.417129",
+        "client_msg_id": "537e46fa-4c84-4d53-ab22-b3020f9317f5",
+        "text": "That seems to me to have a similar potential usecase",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "f2776a64e454",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1307934394386_f2776a64e4549b5f8945_72.png",
+            "first_name": "Kasper",
+            "real_name": "Kasper D. Hansen",
+            "display_name": "khansen",
+            "team": "T35G93A5T",
+            "name": "khansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OU32P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That seems to me to have a similar potential usecase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U36MRHX2S",
+        "type": "message",
+        "ts": "1743465836.992829",
+        "client_msg_id": "19bacd84-c67b-45d4-bed7-fb0903520af3",
+        "text": "... so basically you should ignore my comment since I am clearly not the target audience, but you should look into Rbowtie",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "f2776a64e454",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1307934394386_f2776a64e4549b5f8945_72.png",
+            "first_name": "Kasper",
+            "real_name": "Kasper D. Hansen",
+            "display_name": "khansen",
+            "team": "T35G93A5T",
+            "name": "khansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ea\/5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... so basically you should ignore my comment since I am clearly not the target audience, but you should look into Rbowtie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743466892.497869",
+        "client_msg_id": "17a2db69-2662-46ca-85be-6f72bc483de3",
+        "text": "Micro-comment from glancing at your DESCRIPTION: You do not need SytemRequirements: C++11 (unless you plan compilation on ancient R versions) because C++11 has been the minimum for several years and it is already C++14 with R 4.4.* (and maybe even R 4.3.*).",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QwQvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Micro-comment from glancing at your DESCRIPTION: You do not need SytemRequirements: C++11 (unless you plan compilation on ancient R versions) because C++11 has been the minimum for several years and it is already C++14 with R 4.4.* (and maybe even R 4.3.*)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743466933.270309",
+        "client_msg_id": "775b3bf6-4cec-456c-af34-aed670e24a5c",
+        "text": "Thanks for pointing me to Rbowtie, they actually have a very interesting approach of compiling the binary and using `system.file` to find the binary and `system` to call it. That's actually 1000x simpler than me trying to work out how to use minimap2's C interface (with heavy AI assistance). How does one smuggle a binary from the src area out into inst?",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LshsD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for pointing me to Rbowtie, they actually have a very interesting approach of compiling the binary and using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "system.file",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to find the binary and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "system",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to call it. That's actually 1000x simpler than me trying to work out how to use minimap2's C interface (with heavy AI assistance). How does one smuggle a binary from the src area out into inst?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743467046.451449",
+        "client_msg_id": "231a6e6c-b99b-48a0-ba73-02904f6d7451",
+        "text": "Thanks Dirk, the majority of this code is AI generated as an experiment over the weekend. I appreciate experienced eyes checking over it for obvious issues. My goal was simply to make it generate alignments identical to the output of the CLI tool.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/lfAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Dirk, the majority of this code is AI generated as an experiment over the weekend. I appreciate experienced eyes checking over it for obvious issues. My goal was simply to make it generate alignments identical to the output of the CLI tool."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743467149.309759",
+        "client_msg_id": "9d4b16be-8fe9-4f4d-8d04-a2930ae287fe",
+        "text": "I always have to look it up but WRE under R 4.4.3 says\n&gt;     *C++ standards*: From version 4.0.0 R required and defaulted to\n&gt; C++11; from R 4.1.0 in defaulted to C++14 and from R 4.3.0 to C++17\n&gt; (where available).  For maximal portability a package should either\n&gt; specify a standard (*note Using C++ code::) or be tested under all of\n&gt; C++11, C++14 and C++17.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGvDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I always have to look it up but WRE under R 4.4.3 says\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "    *C++ standards*: From version 4.0.0 R required and defaulted to\nC++11; from R 4.1.0 in defaulted to C++14 and from R 4.3.0 to C++17\n(where available).  For maximal portability a package should either\nspecify a standard (*note Using C++ code::) or be tested under all of\nC++11, C++14 and C++17."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743467221.154729",
+        "client_msg_id": "47b6925b-4676-43b3-8001-f253fc69dd07",
+        "text": "Is it preferable to specify C++17 or remove it entirely?",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "py\/kD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it preferable to specify C++17 or remove it entirely?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743467256.999629",
+        "edited": {
+            "user": "U01579C7JG3",
+            "ts": "1743467358.000000"
+        },
+        "client_msg_id": "33eefb1e-9394-4dfb-84a8-c12abfe98b8e",
+        "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package `seasonal`) uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper `x13binary` that `seasonal` depends upon.  You could borrow that model.  Both are on CRAN, and we have an RJournal paper on the approach.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kx9ic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper "
+                            },
+                            {
+                                "type": "text",
+                                "text": "x13binary",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " depends upon.  You could borrow that model.  Both are on CRAN, and we have an RJournal paper on the approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U01579C7JG3",
+        "upload": false,
+        "ts": "1743467358.000000",
+        "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package `seasonal`) uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper `x13binary` that `seasonal` depends upon.  You could borrow that model.  Both are on CRAN, and we have an RJournal paper on the approach.",
+        "subtype": "message_changed",
+        "thread_ts": "1743465456.933089",
+        "editor_id": "U01579C7JG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kx9ic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper "
+                            },
+                            {
+                                "type": "text",
+                                "text": "x13binary",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " depends upon.  You could borrow that model.  Both are on CRAN, and we have an RJournal paper on the approach."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U01579C7JG3",
+            "type": "message",
+            "ts": "1743467256.999629",
+            "edited": {
+                "user": "U01579C7JG3",
+                "ts": "1743467337.000000"
+            },
+            "client_msg_id": "33eefb1e-9394-4dfb-84a8-c12abfe98b8e",
+            "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package `seasonal`) uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper `x13binary` that `seasonal` depends upon.  You could borrow that model.",
+            "team": "T35G93A5T",
+            "user_team": "T35G93A5T",
+            "source_team": "T35G93A5T",
+            "user_profile": {
+                "avatar_hash": "g4e96ca7ae02",
+                "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+                "first_name": "",
+                "real_name": "Dirk Eddelbuettel",
+                "display_name": "Dirk Eddelbuettel",
+                "team": "T35G93A5T",
+                "name": "edd",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1743465456.933089",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qaeoy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "seasonal",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ") uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "x13binary",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " that "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "seasonal",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " depends upon.  You could borrow that model."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U01579C7JG3"
+    },
+    {
+        "type": "message",
+        "user": "U01579C7JG3",
+        "upload": false,
+        "ts": "1743467337.000000",
+        "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package `seasonal`) uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper `x13binary` that `seasonal` depends upon.  You could borrow that model.",
+        "subtype": "message_changed",
+        "thread_ts": "1743465456.933089",
+        "editor_id": "U01579C7JG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qaeoy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc but I have an example for that too---time-series seasonal adjustement (eg in package "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper "
+                            },
+                            {
+                                "type": "text",
+                                "text": "x13binary",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " depends upon.  You could borrow that model."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U01579C7JG3",
+            "type": "message",
+            "ts": "1743467256.999629",
+            "client_msg_id": "33eefb1e-9394-4dfb-84a8-c12abfe98b8e",
+            "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc pp but I have an example for that too---time-series seasonal adjustement (eg in package `seasonal`) uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper `x13binary` that `seasonal` depends upon.  You could borrow that model.",
+            "team": "T35G93A5T",
+            "user_team": "T35G93A5T",
+            "source_team": "T35G93A5T",
+            "user_profile": {
+                "avatar_hash": "g4e96ca7ae02",
+                "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+                "first_name": "",
+                "real_name": "Dirk Eddelbuettel",
+                "display_name": "Dirk Eddelbuettel",
+                "team": "T35G93A5T",
+                "name": "edd",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1743465456.933089",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ouBZQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "As for the 'can I smuggle a binary in': leads to the usual problem of 'will it run everywhere' etc pp but I have an example for that too---time-series seasonal adjustement (eg in package "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "seasonal",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ") uses a binary provided by the US Commerce Department (so free for everybody) but shipped as a binary.  We created a wrapper "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "x13binary",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " that "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "seasonal",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " depends upon.  You could borrow that model."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U01579C7JG3"
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743467321.224439",
+        "client_msg_id": "a55b259d-1947-48a6-b5a7-eabc2203a7f1",
+        "text": "&gt; Is it preferable to specify C++17 or remove it entirely?\nThe recommendation (and by now check from `R CMD check`) is to remove entirely _unless you need a feature that only C++11 had_ so just leaving it 'open' and 'relaxed' is best.  The compiler knows what to do.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUSiz",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it preferable to specify C++17 or remove it entirely?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The recommendation (and by now check from "
+                            },
+                            {
+                                "type": "text",
+                                "text": "R CMD check",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") is to remove entirely "
+                            },
+                            {
+                                "type": "text",
+                                "text": "unless you need a feature that only C++11 had",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so just leaving it 'open' and 'relaxed' is best.  The compiler knows what to do."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743467389.893169",
+        "edited": {
+            "user": "UBWEB8TQC",
+            "ts": "1743467436.000000"
+        },
+        "client_msg_id": "eb76a46d-aecf-4d76-a47c-396c8928d93f",
+        "text": "I have the full source code, so I'd be compiling the binary on the target machine, the only smuggling is from src where it'd normally be built into inst, and I'm not sure if there's a standard way to do that or I just do some `..\/..\/inst\/bin` shenanigans in the Makefile.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4ptq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have the full source code, so I'd be compiling the binary on the target machine, the only smuggling is from src where it'd normally be built into inst, and I'm not sure if there's a standard way to do that or I just do some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "..\/..\/inst\/bin",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " shenanigans in the Makefile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "UBWEB8TQC",
+        "upload": false,
+        "ts": "1743467436.000000",
+        "text": "I have the full source code, so I'd be compiling the binary on the target machine, the only smuggling is from src where it'd normally be built into inst, and I'm not sure if there's a standard way to do that or I just do some `..\/..\/inst\/bin` shenanigans in the Makefile.",
+        "subtype": "message_changed",
+        "thread_ts": "1743465456.933089",
+        "editor_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4ptq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have the full source code, so I'd be compiling the binary on the target machine, the only smuggling is from src where it'd normally be built into inst, and I'm not sure if there's a standard way to do that or I just do some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "..\/..\/inst\/bin",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " shenanigans in the Makefile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "UBWEB8TQC",
+            "type": "message",
+            "ts": "1743467389.893169",
+            "client_msg_id": "eb76a46d-aecf-4d76-a47c-396c8928d93f",
+            "text": "I have the full source code, so I'd be compiling the binary on the target machine, the only smuggling is from src where it'd normally be built into inst, and I'm not sure if there's a standard way to do or I just do some `..\/..\/inst\/bin` shenanigans in the Makefile.",
+            "team": "T35G93A5T",
+            "user_team": "T35G93A5T",
+            "source_team": "T35G93A5T",
+            "user_profile": {
+                "avatar_hash": "596f060ea0a3",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+                "first_name": "Shian",
+                "real_name": "Shian Su",
+                "display_name": "shians",
+                "team": "T35G93A5T",
+                "name": "registertonysu",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1743465456.933089",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qoJ7+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I have the full source code, so I'd be compiling the binary on the target machine, the only smuggling is from src where it'd normally be built into inst, and I'm not sure if there's a standard way to do or I just do some "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "..\/..\/inst\/bin",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " shenanigans in the Makefile."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "UBWEB8TQC"
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743467413.384399",
+        "edited": {
+            "user": "U01579C7JG3",
+            "ts": "1743467454.000000"
+        },
+        "client_msg_id": "b53f14c1-47a8-4d2c-9be8-85a088fabd5e",
+        "text": "No a local binary, made at install time, is fine. You control the path!  Function `system.file(..., package=\"mypackage\")` is your friend.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8pP5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No a local binary, made at install time, is fine. You control the path!  Function "
+                            },
+                            {
+                                "type": "text",
+                                "text": "system.file(..., package=\"mypackage\")",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is your friend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U01579C7JG3",
+        "upload": false,
+        "ts": "1743467454.000000",
+        "text": "No a local binary, made at install time, is fine. You control the path!  Function `system.file(..., package=\"mypackage\")` is your friend.",
+        "subtype": "message_changed",
+        "thread_ts": "1743465456.933089",
+        "editor_id": "U01579C7JG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8pP5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No a local binary, made at install time, is fine. You control the path!  Function "
+                            },
+                            {
+                                "type": "text",
+                                "text": "system.file(..., package=\"mypackage\")",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is your friend."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U01579C7JG3",
+            "type": "message",
+            "ts": "1743467413.384399",
+            "client_msg_id": "b53f14c1-47a8-4d2c-9be8-85a088fabd5e",
+            "text": "No a local binary, made at install time, is fine. You control the path!",
+            "team": "T35G93A5T",
+            "user_team": "T35G93A5T",
+            "source_team": "T35G93A5T",
+            "user_profile": {
+                "avatar_hash": "g4e96ca7ae02",
+                "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+                "first_name": "",
+                "real_name": "Dirk Eddelbuettel",
+                "display_name": "Dirk Eddelbuettel",
+                "team": "T35G93A5T",
+                "name": "edd",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1743465456.933089",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3USwe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "No a local binary, made at install time, is fine. You control the path!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U01579C7JG3"
+    },
+    {
+        "type": "message",
+        "user": "U01579C7JG3",
+        "upload": false,
+        "ts": "1743467529.000000",
+        "text": "(For seasonal we decided to decouple as `x13binary` is released less often. So the binary, made at install or build time, lives there.  `seasonal` calls it.  Same thing otherwise.)",
+        "subtype": "message_changed",
+        "thread_ts": "1743465456.933089",
+        "editor_id": "U01579C7JG3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HelHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(For seasonal we decided to decouple as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "x13binary",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is released less often. So the binary, made at install or build time, lives there.  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " calls it.  Same thing otherwise.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U01579C7JG3",
+            "type": "message",
+            "ts": "1743467521.418819",
+            "client_msg_id": "603206d5-70de-45e3-a2e7-9e600e593946",
+            "text": "(For seasonal we decided to decouple as `x13binary` is release less often. So the binary, made at install or build time, lives there.  `seasonal` calls it.  Same thing otherwise.)",
+            "team": "T35G93A5T",
+            "user_team": "T35G93A5T",
+            "source_team": "T35G93A5T",
+            "user_profile": {
+                "avatar_hash": "g4e96ca7ae02",
+                "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+                "first_name": "",
+                "real_name": "Dirk Eddelbuettel",
+                "display_name": "Dirk Eddelbuettel",
+                "team": "T35G93A5T",
+                "name": "edd",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1743465456.933089",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ctsdm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "(For seasonal we decided to decouple as "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "x13binary",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " is release less often. So the binary, made at install or build time, lives there.  "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "seasonal",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " calls it.  Same thing otherwise.)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U01579C7JG3"
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743467521.418819",
+        "edited": {
+            "user": "U01579C7JG3",
+            "ts": "1743467529.000000"
+        },
+        "client_msg_id": "603206d5-70de-45e3-a2e7-9e600e593946",
+        "text": "(For seasonal we decided to decouple as `x13binary` is released less often. So the binary, made at install or build time, lives there.  `seasonal` calls it.  Same thing otherwise.)",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HelHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(For seasonal we decided to decouple as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "x13binary",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is released less often. So the binary, made at install or build time, lives there.  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "seasonal",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " calls it.  Same thing otherwise.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743467836.028469",
+        "client_msg_id": "dc46d017-619b-4a82-aa11-2436e5a35a4a",
+        "text": "In terms of use-case, the first motivation is for FLAMES which currently has to grab minimap2 via basilisk to make the pipeline installation more user friendly in terms of installation. The second motivation is I want to one day get into some real-time long-read processing using R, whereby reads streaming off a Nanopore sequencer can be processed in real time to compute statistics and make decisions. This is step 1 towards that because through the C interface I can keep the built index in memory as batches of new reads stream in, essential for real-time processing.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743467836.028469",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1743616391.474539",
+        "reply_users": [
+            "U35E7QV6W",
+            "U07CT7JBP7H"
+        ],
+        "replies": [
+            {
+                "user": "U35E7QV6W",
+                "ts": "1743610879.672289"
+            },
+            {
+                "user": "U07CT7JBP7H",
+                "ts": "1743615961.318909"
+            },
+            {
+                "user": "U35E7QV6W",
+                "ts": "1743616391.474539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4Ax4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In terms of use-case, the first motivation is for FLAMES which currently has to grab minimap2 via basilisk to make the pipeline installation more user friendly in terms of installation. The second motivation is I want to one day get into some real-time long-read processing using R, whereby reads streaming off a Nanopore sequencer can be processed in real time to compute statistics and make decisions. This is step 1 towards that because through the C interface I can keep the built index in memory as batches of new reads stream in, essential for real-time processing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07CT7JBP7H",
+                    "U062KRL1MUM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743467924.380339",
+        "client_msg_id": "c2ce0990-91af-4229-8eaa-40f0de09b894",
+        "text": "Thanks, `cp bin\/minimap2 ..\/..\/inst\/bin` it is then, very straightforward.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zWD2C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cp bin\/minimap2 ..\/..\/inst\/bin",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " it is then, very straightforward."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01579C7JG3",
+        "type": "message",
+        "ts": "1743467989.684689",
+        "client_msg_id": "e2c03b5c-c83f-4fc7-aab6-ee6658eda59d",
+        "text": "\"In theory, yes. In practice there will be hickups.\"  Just kidding.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g4e96ca7ae02",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e96ca7ae02c37e7d940d17997d780e5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dirk Eddelbuettel",
+            "display_name": "Dirk Eddelbuettel",
+            "team": "T35G93A5T",
+            "name": "edd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STuRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"In theory, yes. In practice there will be hickups.\"  Just kidding."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "UBWEB8TQC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U35E7QV6W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743470937.559129",
+        "client_msg_id": "33523B87-A6CD-480D-867E-D9ABA6E9E82A",
+        "text": "So far it seems to be working, it’d be cool to turn this into a near-zero maintenance package that just rebuilds with each release of minimap2 via GitHub action.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgDSz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So far it seems to be working, it’d be cool to turn this into "
+                            },
+                            {
+                                "type": "text",
+                                "text": "a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " near-zero maintenance package that just rebuilds with each release of minimap2 via GitHub action."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

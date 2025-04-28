@@ -1,0 +1,294 @@
+[
+    {
+        "user": "U35E7QV6W",
+        "type": "message",
+        "ts": "1743610879.672289",
+        "client_msg_id": "86c575fc-c068-4bb7-8a04-2ff30bc94520",
+        "text": "hey <@U07CT7JBP7H> this could be helpful for you",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g0a74b478aa2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0a74b478aa2fe561580330d36e26cf4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Triche",
+            "display_name": "timtriche",
+            "team": "T35G93A5T",
+            "name": "timtriche",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743467836.028469",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2QS1z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07CT7JBP7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this could be helpful for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07CT7JBP7H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U07CT7JBP7H",
+        "text": "<@U07CT7JBP7H> has joined the channel",
+        "inviter": "U35E7QV6W",
+        "type": "message",
+        "ts": "1743610883.988039"
+    },
+    {
+        "user": "U35E7QV6W",
+        "type": "message",
+        "ts": "1743610936.133489",
+        "client_msg_id": "14346354-237c-419c-a779-cacbadfa8925",
+        "text": "this is pretty slick! vibe coding for the win",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g0a74b478aa2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0a74b478aa2fe561580330d36e26cf4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Triche",
+            "display_name": "timtriche",
+            "team": "T35G93A5T",
+            "name": "timtriche",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgc+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is pretty slick! vibe coding for the win"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07CT7JBP7H",
+        "type": "message",
+        "ts": "1743615961.318909",
+        "client_msg_id": "0c1b36f5-33f1-447a-ba0f-f879faa989ce",
+        "text": "I guess it would be super handy in bam-slicing case, when we sliced target regions from genomic BAMs -&gt; covert to fastq -&gt; aligned against transcript reference using minimap2 all together in R environment.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "ge178d9e3c04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e178d9e3c041724d9cb730e0ccb47976.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Peter(Yizhou)",
+            "real_name": "Peter(Yizhou) Huang",
+            "display_name": "Peter(Yizhou) Huang",
+            "team": "T35G93A5T",
+            "name": "peter.huang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743467836.028469",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWO0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess it would be super handy in bam-slicing case, when we sliced target regions from genomic BAMs -> covert to fastq -> aligned against transcript reference using minimap2 all together in R environment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U35E7QV6W",
+        "type": "message",
+        "ts": "1743616391.474539",
+        "client_msg_id": "90466E9D-87F2-44C3-B668-24DC77967BEA",
+        "text": ":100: ",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "g0a74b478aa2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0a74b478aa2fe561580330d36e26cf4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Tim",
+            "real_name": "Tim Triche",
+            "display_name": "timtriche",
+            "team": "T35G93A5T",
+            "name": "timtriche",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743467836.028469",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCEk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "100",
+                                "unicode": "1f4af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743632242.294599",
+        "client_msg_id": "EFC5B45C-C2B9-42A4-9F7C-73B13219E8EB",
+        "text": "This was my first experience with agentic models that did multi-file edits with controllable context. I decided to try problems at 3 levels of difficulty.\n\nThe first was just simple implementation of an S4 class along with unit tests, it had errors in the unit test because the coding LLM is still bad at maths and couldn’t correctly calculate the number of rows in the matrix that it declared. Easy fix and the rest was perfectly functional. Iteratively asking it to implement more methods and calculate internal invariants was fun, particularly invariants because those need to be updated on any mutating method and it’s easy to miss when coding manually.\n\nThe second attempt was to do something I had almost zero understanding of. I wanted a web app todo list with a hierarchical task structure, dependencies and automation. It produced a surprisingly decent initial product, but the second it broke and I didn’t have the technical skills to debug it became an unrecoverable mess. LLMs at this stage is not capable of effective debugging of its own code.\n\nSo the third attempt was this. I know that it’s absolutely possible in principle because we already have things like Rsamtools. I know that it shouldn’t be overly complex because the code in the Python bindings look quite simple. I had no idea how to actually build C code into a shared library to call with Rcpp. The biggest time sink was actually getting it all to compile on my ARM Mac. Minimap2 makes heavy use of SSE instructions from x86 and it took a lot of trial and error with the Makevars to get it to work. But it was great to have the LLM set up 95% of the code for me to focus on the hard problems. It also required that I had already wasted sufficient portions of my life dealing with compiler errors to resolve the issues that came up.\n\nOverall 8 out of 10 :robot_face: . Would vibe code again.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVoTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This was my first experience with agentic models that did multi-file edits with controllable context. I decided to try problems at 3 levels of difficulty.\n\nThe first was just simple implementation of an S4 class along with unit tests, it had errors in the unit test because the coding LLM is still bad at maths and couldn’t correctly calculate the number of rows in the matrix that it declared. Easy fix and the rest was perfectly functional. Iteratively asking it to implement more methods and calculate internal invariants was fun, particularly invariants because those need to be updated on any mutating method and it’s easy to miss when coding manually.\n\nThe second attempt was to do something I had almost zero understanding of. I wanted a web app todo list with a hierarchical task structure, dependencies and automation. It produced a surprisingly decent initial product, but the second it broke and I didn’t have the technical skills to debug it became an unrecoverable mess. LLMs at this stage is not capable of effective debugging of its own code.\n\nSo the third attempt was this. I know that it’s absolutely possible in principle because we already have things like Rsamtools. I know that it shouldn’t be overly complex because the code in the Python bindings look quite simple. I had no idea how to actually build C code into a shared library to call with Rcpp. The biggest time sink was actually getting it all to compile on my ARM Mac. Minimap2 makes heavy use of SSE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " instructions from x86 and it took a lot of trial and error with the Makevars to get it to work. But it was great to have the LLM set up 95% of the code for me to focus on the hard problems. It also required that I had already wasted sufficient portions of my life dealing with compiler errors to resolve the issues that came up.\n\nOverall 8 out of 10 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face",
+                                "unicode": "1f916"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . Would vibe code again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UBWEB8TQC",
+        "type": "message",
+        "ts": "1743632398.269849",
+        "client_msg_id": "F9115A91-4E13-4AF6-8BD7-79996C422D47",
+        "text": "I’m not going to sign up to Cursor, since I already have a GitHub copilot subscription and VS Code already has these features in their preview release.",
+        "team": "T35G93A5T",
+        "user_team": "T35G93A5T",
+        "source_team": "T35G93A5T",
+        "user_profile": {
+            "avatar_hash": "596f060ea0a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-26\/607751697858_596f060ea0a3202f319f_72.jpg",
+            "first_name": "Shian",
+            "real_name": "Shian Su",
+            "display_name": "shians",
+            "team": "T35G93A5T",
+            "name": "registertonysu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1743465456.933089",
+        "parent_user_id": "UBWEB8TQC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gbVsi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not going to sign up to Cursor, since I already have a GitHub copilot subscription and VS Code already has these features in their preview release."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U35E7QV6W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
